@@ -12,4 +12,4 @@ Food Database Multiple Concurrent API Requests
 - [ ] Requirement DB001: Use retrieve within the CRUD operations through API calls to access food through various databases.
   - [ ] Requirement DB001.1: Ability to search for commercially sold meals, homemade meals, or individual ingredients.
   - [ ] Requirement DB001.2: Response should display critical pieces of information important to the user:
-    - [ ] Requiremet
+    - [ ] Output displays Food Name.
